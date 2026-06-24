@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- GitHub Profile README for Rittiporn12 --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:334155&height=180&section=header&text=Rittiporn%20Phungphai&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=Computer%20Science%20Student%20%2F%20Software%20Developer&descSize=16&descAlignY=58" alt="Header" /> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Developer;Full-stack+Developer;Software+Tester;AI+%2F+LLM+Enthusiast;n8n+Automation+Learner" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://github.com/Rittiporn12"> <img src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:earthcraftchallenge@gmail.com"> <img src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
-<!--
-**Rittiporn12/Rittiporn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+I am Rittiporn Phungphai, also known as Earth, a Computer Science Student with an interest in building practical software, clean user interfaces, backend systems, automation workflows, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on learning by building real projects using technologies such as React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Server, Postman, Docker, and n8n.
+
+My interests include Front-end Development, Back-end Development, Full-stack Development, Software Testing, AI / LLM, n8n Automation, and Data Analysis.
+
+Tech Stack
+Languages
+<p> <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=512BD4" /> <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" /> </p>
+Frontend
+<p> <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" /> </p>
+Backend
+<p> <img src="https://img.shields.io/badge/ASP.NET%20MVC-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" /> <img src="https://img.shields.io/badge/API%20Testing-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" /> </p>
+Database
+<p> <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" /> </p>
+Tools
+<p> <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" /> </p>
+AI & Automation
+<p> <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=60A5FA" /> <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" /> <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=zapier&logoColor=FF4A00" /> </p>
+
+GitHub Analytics
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rittiporn12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rittiporn12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Rittiporn12&theme=tokyonight&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub Streak" /> </p>
+
+Project Showcase
+<!-- Replace # with your real repository or live demo links when available. --> <table> <tr> <td width="50%"> <h3>Personal Website</h3> <p>A personal developer portfolio website built with React.js, HTML, and CSS, focused on clean UI, responsive design, and project presentation.</p> <p> <img src="https://img.shields.io/badge/React.js-0F172A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML-0F172A?style=flat-square&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css3&logoColor=1572B6" /> </p> <a href="#">View Project</a> </td> <td width="50%"> <h3>Motorcycle Platform</h3> <p>An online motorcycle sales web application with user flow, API testing, input validation, database management, and backend integration.</p> <p> <img src="https://img.shields.io/badge/ASP.NET%20MVC-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" /> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" /> <img src="https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" /> </p> <a href="#">View Project</a> </td> </tr> <tr> <td width="50%"> <h3>PairPlate Nutrition AI System</h3> <p>An AI nutrition recommendation system using Python, OCR, LLM workflows, prompt engineering, and structured response testing.</p> <p> <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/OCR-0F172A?style=flat-square&logo=googlelens&logoColor=4285F4" /> <img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=flat-square&logo=openai&logoColor=60A5FA" /> </p> <a href="#">View Project</a> </td> <td width="50%"> <h3>n8n Automation Workflow</h3> <p>Automation workflows for webhook processing, email routing, Google Sheets integration, and Slack or Discord notifications.</p> <p> <img src="https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=EA4B71" /> <img src="https://img.shields.io/badge/Webhook-0F172A?style=flat-square&logo=webhooks&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Sheets-0F172A?style=flat-square&logo=googlesheets&logoColor=34A853" /> <img src="https://img.shields.io/badge/Slack%20%2F%20Discord-0F172A?style=flat-square&logo=discord&logoColor=5865F2" /> </p> <a href="#">View Project</a> </td> </tr> </table>
+
+Contact
+<p align="center"> <a href="https://github.com/Rittiporn12"> <img src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:earthcraftchallenge@gmail.com"> <img src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <!-- Add LinkedIn, portfolio website, or resume link here when available. -->
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E3A8A,100:0F172A&height=90&section=footer" alt="Footer" /> </p> <p align="center"> Built with curiosity, consistency, and a focus on practical software development. </p>
