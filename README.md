@@ -25,19 +25,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:334155&height=2&section=header" alt="Divider" />
 </p>
 
-<h2 align="center">About Me</h2>
+## About Me
 
-<p align="center">
-  Hi, I’m <strong>Rittiporn Phungphai</strong> — you can call me <strong>Earth</strong>.
-</p>
+Hi, I’m **Rittiporn Phungphai** — you can call me **Earth**.
 
-<p align="center">
-  I am a <strong>Computer Science Student</strong> and aspiring <strong>Software Developer</strong> interested in building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
-</p>
+I am a **Computer Science Student** and aspiring **Software Developer** interested in building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
 
-<p align="center">
-  I enjoy learning through real projects and improving my skills in <strong>Full-stack Development</strong>, <strong>Software Testing</strong>, <strong>AI / LLM</strong>, <strong>n8n Automation</strong>, and <strong>Data Analysis</strong>.
-</p>
+I enjoy learning through real projects and improving my skills in **Full-stack Development**, **Software Testing**, **AI / LLM**, **n8n Automation**, and **Data Analysis**.
 
 ```txt
 Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Server, Postman, Docker, and n8n.
@@ -49,85 +43,38 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E3A8A,100:020617&height=2&section=header" alt="Divider" />
 </p>
 
-<h2 align="center">Tech Stack</h2>
+## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Languages</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-      <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=512BD4" />
-      <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" />
-    </td>
-  </tr>
-</table>
+### When I code, I rely on
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-      <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Java-F97316?style=flat-square&logo=openjdk&logoColor=ffffff" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ASP.NET%20MVC-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
-      <img src="https://img.shields.io/badge/API%20Testing-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=ffffff" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Database</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-      <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>AI & Automation</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=60A5FA" />
-      <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-      <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=zapier&logoColor=FF4A00" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=flat-square&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Automation-FF4A00?style=flat-square&logo=zapier&logoColor=ffffff" />
+</p>
 
 <br />
 
