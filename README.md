@@ -25,7 +25,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:334155&height=2&section=header" alt="Divider" />
 </p>
 
-## About Me
+<h2 align="center">About Me</h2>
 
 Hi, I’m **Rittiporn Phungphai** — you can call me **Earth**.
 
@@ -43,7 +43,7 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E3A8A,100:020617&height=2&section=header" alt="Divider" />
 </p>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 ### When I code, I rely on
 
