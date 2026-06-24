@@ -98,14 +98,6 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
   </a>
 </p>
 
-<!-- Add LinkedIn, portfolio website, or resume link here when available. -->
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E3A8A,100:020617&height=90&section=footer" alt="Footer" />
-</p>
-
 <p align="center">
   Built with curiosity, consistency, and a focus on practical Software Development
 </p>
