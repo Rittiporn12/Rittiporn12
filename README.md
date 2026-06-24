@@ -53,41 +53,74 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <strong>Languages</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=js,python,cs,java&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      <strong>Frontend</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-    </td>
+    <td align="center"><strong>Languages</strong></td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong>Backend</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
-      <br /><br />
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=512BD4" />
+      <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+      <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/ASP.NET%20MVC-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
       <img src="https://img.shields.io/badge/API%20Testing-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
     </td>
-    <td align="center" width="50%">
-      <strong>Database</strong>
-      <br /><br />
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
     </td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <strong>Tools</strong>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" />
+    <td align="center"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+      <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+      <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
     </td>
-    <td align="center" width="50%">
-      <strong>AI & Automation</strong>
-      <br /><br />
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>AI & Automation</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=60A5FA" />
       <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
@@ -102,26 +135,14 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:334155&height=2&section=header" alt="Divider" />
 </p>
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rittiporn12/Rittiporn12/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E3A8A,100:020617&height=2&section=header" alt="Divider" />
-</p>
-
 <h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://github.com/Rittiporn12">
-    <img src="https://img.shields.io/badge/GitHub-Rittiporn12-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Rittiporn12-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
   </a>
   <a href="mailto:earthcraftchallenge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
   </a>
 </p>
 
