@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rittiporn12&style=flat-square&color=2563EB&label=Profile%20Views" alt="Profile views" />
-</p>
-
 ---
 
 ## About Me
@@ -91,75 +87,6 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rittiporn12&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rittiporn12&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rittiporn12&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub Streak" />
-</p>
-
----
-
-## Project Showcase
-
-<!-- Replace # with your real repository or live demo links when available. -->
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Personal Website</h3>
-      <p>A personal developer portfolio website built with React.js, HTML, and CSS, focused on clean UI and responsive design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26" />
-        <img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css&logoColor=1572B6" />
-      </p>
-      <a href="#">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>Motorcycle Platform</h3>
-      <p>An online motorcycle sales web application with user flow, API testing, input validation, and database management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20MVC-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4" />
-        <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
-        <img src="https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=FF6C37" />
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" />
-      </p>
-      <a href="#">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>PairPlate Nutrition AI System</h3>
-      <p>An AI nutrition recommendation system using Python, OCR, LLM workflows, and prompt engineering.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" />
-        <img src="https://img.shields.io/badge/OCR-0F172A?style=flat-square&logo=googlelens&logoColor=4285F4" />
-        <img src="https://img.shields.io/badge/LLM-0F172A?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=flat-square&logo=openai&logoColor=60A5FA" />
-      </p>
-      <a href="#">View Project</a>
-    </td>
-    <td width="50%">
-      <h3>n8n Automation Workflow</h3>
-      <p>Automation workflows for webhook processing, email routing, Google Sheets integration, and Slack or Discord notifications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=EA4B71" />
-        <img src="https://img.shields.io/badge/Webhook-0F172A?style=flat-square&logo=webhooks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Sheets-0F172A?style=flat-square&logo=googlesheets&logoColor=34A853" />
-        <img src="https://img.shields.io/badge/Slack%20%2F%20Discord-0F172A?style=flat-square&logo=discord&logoColor=5865F2" />
-      </p>
-      <a href="#">View Project</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Contact
 
 <p align="center">
@@ -180,5 +107,5 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
 </p>
 
 <p align="center">
-  Built with curiosity, consistency, and a focus on practical software development.
+  Built with curiosity, consistency, and a focus on practical Software Development
 </p>
