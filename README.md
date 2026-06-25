@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<br />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:334155&height=2&section=header" alt="Divider" />
 </p>
@@ -29,15 +27,13 @@
 
 Hi, I’m **Rittiporn Phungphai** — you can call me **Earth**.
 
-I am a **Computer Science Student** and aspiring **Software Developer** interested in building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
+I'm a **Computer Science Student** and aspiring **Software Developer** interested in building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
 
 I enjoy learning through real projects and improving my skills in **Full-stack Development**, **Software Testing**, **AI / LLM**, **n8n Automation**, and **Data Analysis**.
 
 ```txt
-Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Server, Postman, Docker, and n8n.
+Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Server, Postman, Docker, and n8n
 ```
-
-<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1E3A8A,100:020617&height=2&section=header" alt="Divider" />
@@ -76,29 +72,10 @@ Currently focusing on React, JavaScript, Python, C#, Java, ASP.NET MVC, SQL Serv
   <img src="https://img.shields.io/badge/Automation-FF4A00?style=flat-square&logo=zapier&logoColor=ffffff" />
 </p>
 
-<br />
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:334155&height=2&section=header" alt="Divider" />
 </p>
 
-<h2 align="center">Contact</h2>
-
 <p align="center">
-  <a href="https://github.com/Rittiporn12">
-    <img src="https://img.shields.io/badge/GitHub-Rittiporn12-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
-  </a>
-  <a href="mailto:earthcraftchallenge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
-  </a>
-</p>
-
-<!-- Add LinkedIn, portfolio website, or resume link here when available. -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E3A8A,100:020617&height=90&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  Built with curiosity, consistency, and a focus on practical Software Development.
+  Built with curiosity, consistency, and a focus on practical Software Development
 </p>
