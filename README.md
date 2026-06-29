@@ -16,11 +16,13 @@
   </a>
 </p>
 
+<br />
+
 <p align="center">
   <a href="https://rittiporn12.github.io/portfolio/">
-    <img 
-      src="https://img.shields.io/badge/Visit%20Portfolio-rittiporn12.github.io%2Fportfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=020617" 
-      alt="Portfolio Website" 
+    <img
+      src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-rittiporn12.github.io%2Fportfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=020617" 
+      alt="Portfolio Website"
     />
   </a>
 </p>
@@ -28,17 +30,19 @@
 <p align="center">
   <a href="https://github.com/Rittiporn12">
     <img 
-      src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=for-the-badge&logo=github&logoColor=CBD5E1&labelColor=020617" 
+      src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=flat-square&logo=github&logoColor=CBD5E1&labelColor=020617" 
       alt="GitHub" 
     />
   </a>
   <a href="mailto:earthcraftchallenge@gmail.com">
     <img 
-      src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=for-the-badge&logo=gmail&logoColor=CBD5E1&labelColor=020617" 
+      src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=flat-square&logo=gmail&logoColor=CBD5E1&labelColor=020617" 
       alt="Email" 
     />
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <img 
