@@ -28,13 +28,13 @@
 <p align="center">
   <a href="https://github.com/Rittiporn12">
     <img 
-      src="https://img.shields.io/badge/GitHub-Rittiporn12-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" 
+      src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=for-the-badge&logo=github&logoColor=CBD5E1&labelColor=020617" 
       alt="GitHub" 
     />
   </a>
   <a href="mailto:earthcraftchallenge@gmail.com">
     <img 
-      src="https://img.shields.io/badge/Email-earthcraftchallenge%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" 
+      src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=for-the-badge&logo=gmail&logoColor=CBD5E1&labelColor=020617" 
       alt="Email" 
     />
   </a>
