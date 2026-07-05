@@ -97,80 +97,66 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
-        <img src="https://img.shields.io/badge/Java-F97316?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=ffffff" alt="CSS3" />
-      </p>
-    </td>
-  </tr>
+<h3>Languages</h3>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Backend & Database</h3>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=ffffff" alt="ASP.NET MVC" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" alt="SQL Server" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Testing</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff" alt="Postman" />
-        <img src="https://img.shields.io/badge/API%20Testing-2563EB?style=flat-square&logo=swagger&logoColor=ffffff" alt="API Testing" />
-        <img src="https://img.shields.io/badge/Test%20Case-111827?style=flat-square&logo=checkmarx&logoColor=ffffff" alt="Test Case" />
-      </p>
-    </td>
-  </tr>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-F97316?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" />
+</p>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
-        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000" alt="Swagger" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI & Automation</h3>
-      <p>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff" alt="n8n" />
-        <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=flat-square&logo=openai&logoColor=ffffff" alt="AI / LLM" />
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square&logo=openai&logoColor=ffffff" alt="Prompt Engineering" />
-        <img src="https://img.shields.io/badge/Automation-FF4A00?style=flat-square&logo=zapier&logoColor=ffffff" alt="Automation" />
-      </p>
-    </td>
-  </tr>
+<h3>Frontend</h3>
 
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Other</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=ffffff" alt="Canva" />
-        <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=ffffff" alt="Trello" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff" alt="IntelliJ IDEA" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=ffffff" alt="CSS3" />
+</p>
+
+<h3>Backend & Database</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=ffffff" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=ffffff" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
+</p>
+
+<h3>Testing</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff" alt="Postman" />
+  <img src="https://img.shields.io/badge/API%20Testing-2563EB?style=flat-square&logo=swagger&logoColor=ffffff" alt="API Testing" />
+  <img src="https://img.shields.io/badge/Test%20Case-111827?style=flat-square&logo=checkmarx&logoColor=ffffff" alt="Test Case" />
+</p>
+
+<h3>Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=000000" alt="Swagger" />
+</p>
+
+<h3>AI & Automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=flat-square&logo=openai&logoColor=ffffff" alt="AI / LLM" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square&logo=openai&logoColor=ffffff" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Automation-FF4A00?style=flat-square&logo=zapier&logoColor=ffffff" alt="Automation" />
+</p>
+
+<h3>Other</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=ffffff" alt="Canva" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=ffffff" alt="Trello" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff" alt="IntelliJ IDEA" />
+</p>
 
 <br />
 
