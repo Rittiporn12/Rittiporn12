@@ -27,21 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Rittiporn12">
-    <img 
-      src="https://img.shields.io/badge/GitHub-Rittiporn12-0F172A?style=flat-square&logo=github&logoColor=CBD5E1&labelColor=020617" 
-      alt="GitHub" 
-    />
-  </a>
-  <a href="mailto:earthcraftchallenge@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Email-Contact%20Me-334155?style=flat-square&logo=gmail&logoColor=CBD5E1&labelColor=020617" 
-      alt="Email" 
-    />
-  </a>
-</p>
-
 <br />
 
 <p align="center">
