@@ -144,7 +144,6 @@
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=ffffff" alt="n8n" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=flat-square&logo=openai&logoColor=ffffff" alt="AI / LLM" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-2563EB?style=flat-square&logo=openai&logoColor=ffffff" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Automation-FF4A00?style=flat-square&logo=zapier&logoColor=ffffff" alt="Automation" />
 </p>
 
