@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  Computer Science Student · Software Developer · Full-stack Development
+  Computer Science · Software Developer · Full-stack Development
 </h3>
 
 <p align="center">
