@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:334155&height=165&section=header&text=Rittiporn%20Phungphai&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descSize=15&descAlignY=58&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1E3A8A,100:334155&height=165&section=header&text=Rittiporn%20Phungphai&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=Computer%20Science%20%7C%20Software%20Developer&descSize=15&descAlignY=58&animation=fadeIn" 
     alt="Header" 
   />
 </p>
@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  I'm a <b>Computer Science Student</b> and aspiring <b>Software Developer</b> who enjoys building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
+  I'm a <b>Computer Science</b> and aspiring <b>Software Developer</b> who enjoys building practical web applications, clean user interfaces, backend systems, automation workflows, and AI-powered tools.
 </p>
 
 <p>
